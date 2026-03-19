@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Estoque.API/Estoque.API.csproj" />
+  <Project Path="Estoque.Application/Estoque.Application.csproj" />
+  <Project Path="Estoque.CrossCutting/Estoque.CrossCutting.csproj" />
+  <Project Path="Estoque.Domain/Estoque.Domain.csproj" Id="abfe4d66-820d-4c89-b275-f64984c3497a" />
+  <Project Path="Estoque.Infrastructure/Estoque.Infrastructure.csproj" />
+</Solution>
